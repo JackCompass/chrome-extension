@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "tapthealth",
+    "version": "1.0",
+    "description": "Updated description",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "logo.png"
+        }
+    }
+}
