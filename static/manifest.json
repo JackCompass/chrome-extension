@@ -7,6 +7,12 @@
         "default_popup": "index.html",
         "default_icon": {
             "16": "logo.png"
-        }
-    }
+        },
+        "default_title": "click Me"
+    },
+    "permissions": [
+        "storage",
+        "downloads",
+        "tabs"
+    ]
 }
